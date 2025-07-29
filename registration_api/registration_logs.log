@@ -1,0 +1,15 @@
+2025-07-29 20:09:44,821 - INFO - Received registration request for rohit@gmail.com,8745630381
+2025-07-29 20:09:46,299 - INFO - User rohit@gmail.com,8745630381 registered successfully.
+2025-07-29 20:09:46,299 - INFO - register_user executed in 1479 ms
+2025-07-29 20:13:27,279 - INFO - User rohit@gmail.com logged in successfully.
+2025-07-29 20:13:27,279 - INFO - login executed in 376 ms
+2025-07-29 20:16:56,385 - INFO - User 6888dd324409747d78ebe89a requested contact update
+2025-07-29 20:16:56,385 - INFO - Checking for existing mobile: 8763541290
+2025-07-29 20:16:56,498 - INFO - User 6888dd324409747d78ebe89a updated contact: {'mobile': '8763541290'}
+2025-07-29 20:16:56,498 - INFO - change_contact executed in 112 ms
+2025-07-29 20:19:39,405 - INFO - Password change request received for user_id: 6888dd324409747d78ebe89a
+2025-07-29 20:19:40,422 - INFO - Password changed successfully for user_id: 6888dd324409747d78ebe89a
+2025-07-29 20:19:40,422 - INFO - change_password executed in 1017 ms
+2025-07-29 20:21:34,612 - INFO - [ResetToken] Sent to rohit@gmail.com (valid 24h): ZESq_50mgRwiqwRCf4LrCPN2kXeFqqmlTBPTivlPcQQ
+2025-07-29 20:21:34,612 - INFO - forgot_password executed in 174 ms
+2025-07-29 20:22:21,239 - INFO - logout_user executed in 0 ms
